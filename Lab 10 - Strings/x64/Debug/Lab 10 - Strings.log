@@ -1,0 +1,3 @@
+﻿  Task 4.cpp
+C:\Users\Administrator\source\repos\Lab 10 - Strings\Task 4.cpp(10,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab 10 - Strings.vcxproj -> C:\Users\Administrator\source\repos\Lab 10 - Strings\x64\Debug\Lab 10 - Strings.exe
